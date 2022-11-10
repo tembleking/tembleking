@@ -1,13 +1,11 @@
 <div align="center">
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00beff&height=3&section=header&%20render" />
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=tembleking&bg_color=22272e&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=00beff&title_color=00beff&line=00beff&point=00beff&theme=high-contrast">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tembleking&bg_color=ffffff&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=00beff&title_color=00beff&color=000000&line=00beff&point=00beff&theme=high-contrast" width="855" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=tembleking&bg_color=22272e&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=00beff&title_color=00beff&line=00beff&point=00beff&theme=high-contrasthttps://activity-graph.herokuapp.com/graph?username=tembleking&bg_color=ffffff&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=00beff&title_color=00beff&color=000000&line=00beff&point=00beff&theme=high-contrast">
+  <img align="center" alt="Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tembleking&bg_color=ffffff&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=00beff&title_color=00beff&color=000000&line=00beff&point=00beff&theme=high-contrast" width="855" />
 </picture>
   
-
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00beff&height=3&section=header&%20render" />
 <p></p>
 <img src="https://github-readme-stats.vercel.app/api?username=tembleking&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=00beff&icon_color=00beff&border_color=00beff&bg_color=22272e" width="530" />
